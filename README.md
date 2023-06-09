@@ -1,1 +1,1 @@
-# inuxCodes
+# LinuxCodes
